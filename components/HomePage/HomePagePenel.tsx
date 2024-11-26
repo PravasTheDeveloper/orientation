@@ -2,8 +2,6 @@ import { useState } from "react"
 
 export default function HomePagePenel() {
 
-  // const [first, setfirst] = useState()
-
   return (
     <>
       <header className="text-gray-600 body-font">
