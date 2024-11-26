@@ -2,7 +2,7 @@ import { useState } from "react"
 
 export default function HomePagePenel() {
 
-  const [first, setfirst] = useState()
+  // const [first, setfirst] = useState()
 
   return (
     <>
