@@ -4,7 +4,9 @@ import React from 'react'
 export default function Home() {
   return (
     <>
-      <HomePagePenel />
+      <div className='w-full h-auto bg-slate-300'>
+        <HomePagePenel />
+      </div>
     </>
   )
 }
